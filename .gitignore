@@ -1,0 +1,23 @@
+#Folders
+/Library
+/Temp
+/Builds
+/Build
+AssetStoreTools*
+Daikon Forge*
+
+#Project/User Preference Files
+*.sln
+*.unityproj
+*.csproj
+*.pidb
+*.userprefs
+*.user
+*.suo
+
+#OS Junk
+Thumbs.db
+.DS_Store*
+._*
+ehthumbs.db
+Icon7
